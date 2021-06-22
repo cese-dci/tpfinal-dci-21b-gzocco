@@ -1,15 +1,13 @@
 ## Trabajo práctico final de la asignatura DCI ##
 Este repositorio contiene el trabajo práctico final para la asignatura de Diseño de Circuitos Impresos de la carrera de posgrado de FIUBA.
 
-* Autor: XXXXCOMPLETARXXXX
-* Título corto del trabajo:  XXXXCOMPLETARXXXX
-* Descripción:  XXXXCOMPLETARXXXX
+* Autor: Gustavo Zocco
+* Título corto del trabajo: Réplica giroscopio L3GD20.
+* Descripción:  Réplica del módulo giroscopio de 3 ejes con el CI L3GD20.
 
 
 ## Licencia de este trabajo ##
-XXXMENCIONAR ACÁ LA LICENCIAXXX (Editar este párrafo) 
-Y además colcar el archivo de texto de la misma en el directorio raíz.
-Para este TP se pide que la licencia sea de hardware abierto.
+CERN Open Hardware License (OHL)
 Ver la sección "What license should I use?": https://www.oshwa.org/faq/
 
 ## Estructura del TP FINAL ##
