@@ -1,4 +1,4 @@
-update=mié 30 jun 2021 23:29:32 -03
+update=jue 01 jul 2021 19:32:51 -03
 version=1
 last_client=kicad
 [general]
@@ -34,7 +34,7 @@ LibDir=
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
-PlotDirectoryName=./Esquematico.pdf
+PlotDirectoryName=./
 SubpartIdSeparator=0
 SubpartFirstId=65
 NetFmtName=
