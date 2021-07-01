@@ -1,0 +1,537 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD8561
+D Ultrafast 7 ns Single Supply Comparator, DIP-8/SOIC-8/TSSOP-8
+K cmp complementary push-pull
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ad8561.pdf
+$ENDCMP
+#
+$CMP ADCMP350
+D Single-input comparator, internal 0.6V reference, Active-Low Open-Drain output, KS-4
+K cmp collector
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADCMP350_354_356.pdf
+$ENDCMP
+#
+$CMP ADCMP354
+D Single-input comparator, internal 0.6V reference, Active-High Open-Drain output, KS-4
+K cmp collector
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADCMP350_354_356.pdf
+$ENDCMP
+#
+$CMP ADCMP356
+D Single-input comparator, internal 0.6V reference, Active-High Push-Pull output, KS-4
+K cmp
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADCMP350_354_356.pdf
+$ENDCMP
+#
+$CMP AP131-18
+D 300mA low dropout linear regulator, shutdown pin, 1.8V fixed positive output, SOT-23-5
+K linear regulator ldo fixed positive
+F http://www.diodes.com/_files/datasheets/AP131.pdf
+$ENDCMP
+#
+$CMP AP131-20
+D 300mA low dropout linear regulator, shutdown pin, 2.0V fixed positive output, SOT-23-5
+K linear regulator ldo fixed positive
+F http://www.diodes.com/_files/datasheets/AP131.pdf
+$ENDCMP
+#
+$CMP AP131-25
+D 300mA low dropout linear regulator, shutdown pin, 2.5V fixed positive output, SOT-23-5
+K linear regulator ldo fixed positive
+F http://www.diodes.com/_files/datasheets/AP131.pdf
+$ENDCMP
+#
+$CMP AP131-28
+D 300mA low dropout linear regulator, shutdown pin, 2.8V fixed positive output, SOT-23-5
+K linear regulator ldo fixed positive
+F http://www.diodes.com/_files/datasheets/AP131.pdf
+$ENDCMP
+#
+$CMP AP131-29
+D 300mA low dropout linear regulator, shutdown pin, 2.9V fixed positive output, SOT-23-5
+K linear regulator ldo fixed positive
+F http://www.diodes.com/_files/datasheets/AP131.pdf
+$ENDCMP
+#
+$CMP AP131-30
+D 300mA low dropout linear regulator, shutdown pin, 3.0V fixed positive output, SOT-23-5
+K linear regulator ldo fixed positive
+F http://www.diodes.com/_files/datasheets/AP131.pdf
+$ENDCMP
+#
+$CMP AP131-33
+D 300mA low dropout linear regulator, shutdown pin, 3.3V fixed positive output, SOT-23-5
+K linear regulator ldo fixed positive
+F http://www.diodes.com/_files/datasheets/AP131.pdf
+$ENDCMP
+#
+$CMP AP131-35
+D 300mA low dropout linear regulator, shutdown pin, 3.5V fixed positive output, SOT-23-5
+K linear regulator ldo fixed positive
+F http://www.diodes.com/_files/datasheets/AP131.pdf
+$ENDCMP
+#
+$CMP LM2901
+D Quad Differential Comparators, DIP-14/SOIC-14/TSSOP-14
+K cmp open collector
+F https://www.st.com/resource/en/datasheet/lm2901.pdf
+$ENDCMP
+#
+$CMP LM2903
+D Low-Power, Low-Offset Voltage, Dual Comparators, DIP-8/SOIC-8/SOP-8/TSSOP-8/VSSOP-8
+K cmp open collector
+F http://www.ti.com/lit/ds/symlink/lm393.pdf
+$ENDCMP
+#
+$CMP LM311
+D Voltage Comparator, DIP-8/SOIC-8
+K cmp open collector
+F https://www.st.com/resource/en/datasheet/lm311.pdf
+$ENDCMP
+#
+$CMP LM319
+D High Speed Dual Comparator, DIP-14/SOIC-14
+K cmp open collector
+F http://www.ti.com/lit/ds/symlink/lm319-n.pdf
+$ENDCMP
+#
+$CMP LM319H
+D High Speed Dual Comparator, TO-100-10
+K cmp open collector
+F http://www.ti.com/lit/ds/symlink/lm319-n.pdf
+$ENDCMP
+#
+$CMP LM339
+D Quad Differential Comparators, SOIC-14/TSSOP-14
+K cmp open collector
+F https://www.st.com/resource/en/datasheet/lm139.pdf
+$ENDCMP
+#
+$CMP LM393
+D Low-Power, Low-Offset Voltage, Dual Comparators, DIP-8/SOIC-8/TO-99-8
+K cmp open collector
+F http://www.ti.com/lit/ds/symlink/lm393.pdf
+$ENDCMP
+#
+$CMP LMH7324
+D Quad 700 ps High Speed Comparator with RSPECL Outputs, WQFN-32
+K cmp push-pull complementary
+F http://www.ti.com/lit/ds/symlink/lmh7324.pdf
+$ENDCMP
+#
+$CMP LMV331
+D Single General-Purpose Low-Voltage Comparator, SOT-23-5/SC-70-5
+K single comparator
+F http://www.ti.com/lit/ds/symlink/lmv331.pdf
+$ENDCMP
+#
+$CMP LMV339
+D Quad General-Purpose Low-Voltage Comparator, SOIC-14/TSSOP-14
+K cmp open collector
+F https://www.st.com/resource/en/datasheet/lmv331.pdf
+$ENDCMP
+#
+$CMP LMV393
+D Dual General-Purpose Low-Voltage Comparator, SOIC-8/TSSOP-8/VSSOP-8
+K cmp open collector
+F http://www.ti.com/lit/ds/symlink/lmv331.pdf
+$ENDCMP
+#
+$CMP LMV7219M5
+D Single Low-Power High-Speed Push-Pull Output Comparator, SOT-23-5
+K cmp
+F https://www.ti.com/lit/ds/symlink/lmv7219.pdf
+$ENDCMP
+#
+$CMP LMV7219M7
+D Single Low-Power High-Speed Push-Pull Output Comparator, SC-70-5
+K cmp
+F https://www.ti.com/lit/ds/symlink/lmv7219.pdf
+$ENDCMP
+#
+$CMP LMV7271
+D Single, 1.8V Low Power, Rail-to-Rail Input, Push-Pull Output Comparator, SOT-23-5/SC-70-5
+K cmp
+F http://www.ti.com/lit/ds/symlink/lmv7271.pdf
+$ENDCMP
+#
+$CMP LMV7272
+D Dual, 1.8V Low Power, Rail-to-Rail Input, Push-Pull Output Comparator, DSBGA-8
+K cmp
+F http://www.ti.com/lit/ds/symlink/lmv7272.pdf
+$ENDCMP
+#
+$CMP LMV7275
+D Single, 1.8V Low Power, Rail-to-Rail Input, Open Collector Output Comparator, SOT-23-5/SC-70-5
+K cmp
+F http://www.ti.com/lit/ds/symlink/lmv7275.pdf
+$ENDCMP
+#
+$CMP LT1011
+D Voltage Comparator, DIP-8/SOIC-8
+K cmp open collector
+F https://www.analog.com/media/en/technical-documentation/data-sheets/lt1011.pdf
+$ENDCMP
+#
+$CMP LT1016
+D Single UltraFast Precision 10ns Comparator, DIP-8/SOIC-8
+K cmp push-pull complementary latch
+F https://www.analog.com/media/en/technical-documentation/data-sheets/lt1016.pdf
+$ENDCMP
+#
+$CMP LT1116
+D Single 12ns, Single Supply Ground-Sensing Comparator, DIP-8/SOIC-8
+K cmp push-pull complementary latch
+F https://www.analog.com/media/en/technical-documentation/data-sheets/1116fc.pdf
+$ENDCMP
+#
+$CMP LT1711xMS8
+D Single ultrafast 4.5 ns rail-to-rail comparator, MSOP-8
+K cmp latch push-pull complementary
+F https://www.analog.com/media/en/technical-documentation/data-sheets/171112f.pdf
+$ENDCMP
+#
+$CMP LTC6752xMS8-2
+D Single 280Mhz 2.9ns Comparator, Rail-to-Rail Inputs, CMOS Output, MSOP-8
+K single comparator high speed cmos
+F https://www.analog.com/media/en/technical-documentation/data-sheets/6752fc.pdf
+$ENDCMP
+#
+$CMP LTC6752xS5
+D Single 280Mhz 2.9ns Comparator, Rail-to-Rail Inputs, CMOS Output, TSOT-23-5
+K single comparator high speed cmos
+F https://www.analog.com/media/en/technical-documentation/data-sheets/6752fc.pdf
+$ENDCMP
+#
+$CMP LTC6752xSC6-1
+D Single 280Mhz 2.9ns Comparator, Rail-to-Rail Inputs, CMOS Output, SC-70
+K single comparator high speed cmos
+F https://www.analog.com/media/en/technical-documentation/data-sheets/6752fc.pdf
+$ENDCMP
+#
+$CMP LTC6752xSC6-4
+D Single 280Mhz 2.9ns Comparator, Rail-to-Rail Inputs, CMOS Output, SC-70
+K single comparator high speed cmos
+F https://www.analog.com/media/en/technical-documentation/data-sheets/6752fc.pdf
+$ENDCMP
+#
+$CMP LTC6752xUD-3
+D Single 280Mhz 2.9ns Comparator, Rail-to-Rail Inputs, CMOS Output, QFN-12
+K single comparator high speed cmos
+F https://www.analog.com/media/en/technical-documentation/data-sheets/6752fc.pdf
+$ENDCMP
+#
+$CMP LTC6754xSC6
+D Single High Speed Rail-to-Rail Input Comparator with LVDS Compatible Outputs, SC-70-6
+K cmp r2r rtr push-pull complementary
+F https://www.analog.com/media/en/technical-documentation/data-sheets/6754f.pdf
+$ENDCMP
+#
+$CMP LTC6754xUD
+D Single High Speed Rail-to-Rail Input Comparator with LVDS Compatible Outputs, QFN-12
+K cmp r2r rtr push-pull complementary
+F https://www.analog.com/media/en/technical-documentation/data-sheets/6754f.pdf
+$ENDCMP
+#
+$CMP MCP6561-OT
+D Single 1.8V Low-Power Push-Pull Output Comparator, SOT-23-5
+K cmp
+F http://ww1.microchip.com/downloads/en/DeviceDoc/MCP6561-1R-1U-2-4-1.8V-Low-Power-Push-Pull-Output-Comparator-DS20002139E.pdf
+$ENDCMP
+#
+$CMP MCP6561R
+D Single 1.8V Low-Power Push-Pull Output Comparator, SOT-23-5
+K cmp
+F http://ww1.microchip.com/downloads/en/DeviceDoc/MCP6561-1R-1U-2-4-1.8V-Low-Power-Push-Pull-Output-Comparator-DS20002139E.pdf
+$ENDCMP
+#
+$CMP MCP6561U
+D Single 1.8V Low-Power Push-Pull Output Comparator, SOT-23-5
+K cmp
+F http://ww1.microchip.com/downloads/en/DeviceDoc/MCP6561-1R-1U-2-4-1.8V-Low-Power-Push-Pull-Output-Comparator-DS20002139E.pdf
+$ENDCMP
+#
+$CMP MCP6561x-LT
+D Single 1.8V Low-Power Push-Pull Output Comparator, SC-70-5
+K cmp
+F http://ww1.microchip.com/downloads/en/DeviceDoc/MCP6561-1R-1U-2-4-1.8V-Low-Power-Push-Pull-Output-Comparator-DS20002139E.pdf
+$ENDCMP
+#
+$CMP MCP6562
+D Dual 1.8V Low-Power Push-Pull Output Comparator, SOIC-8/MSOP-8
+K cmp
+F http://ww1.microchip.com/downloads/en/DeviceDoc/MCP6561-1R-1U-2-4-1.8V-Low-Power-Push-Pull-Output-Comparator-DS20002139E.pdf
+$ENDCMP
+#
+$CMP MCP6566
+D Single 1.8V Low-Power Open-Drain Output Comparator, SOT-23-5/SC-70
+K cmp collector
+F http://ww1.microchip.com/downloads/en/DeviceDoc/MCP6566-6R-6U-7-9-1.8V-Low-Power-Open-Drain-Output-Comparator-DS20002143G.pdf
+$ENDCMP
+#
+$CMP MCP6566R
+D Single 1.8V Low-Power Open-Drain Output Comparator, SOT-23-5
+K cmp collector
+F http://ww1.microchip.com/downloads/en/DeviceDoc/MCP6566-6R-6U-7-9-1.8V-Low-Power-Open-Drain-Output-Comparator-DS20002143G.pdf
+$ENDCMP
+#
+$CMP MCP6566U
+D Single 1.8V Low-Power Open-Drain Output Comparator, SOT-23-5
+K cmp collector
+F http://ww1.microchip.com/downloads/en/DeviceDoc/MCP6566-6R-6U-7-9-1.8V-Low-Power-Open-Drain-Output-Comparator-DS20002143G.pdf
+$ENDCMP
+#
+$CMP MCP6567
+D Dual 1.8V Low-Power Open-Drain Output Comparator, SOIC-8/MSOP-8
+K cmp collector
+F http://ww1.microchip.com/downloads/en/DeviceDoc/MCP6566-6R-6U-7-9-1.8V-Low-Power-Open-Drain-Output-Comparator-DS20002143G.pdf
+$ENDCMP
+#
+$CMP MCP6569
+D Quad 1.8V Low-Power Open-Drain Output Comparator, SOIC-14/TSSOP-14
+K cmp collector
+F http://ww1.microchip.com/downloads/en/DeviceDoc/MCP6566-6R-6U-7-9-1.8V-Low-Power-Open-Drain-Output-Comparator-DS20002143G.pdf
+$ENDCMP
+#
+$CMP MCP65R41
+D 3 μA Comparator with Integrated Reference Voltage, SOT-23-6
+K cmp reference
+F http://ww1.microchip.com/downloads/en/DeviceDoc/22269B.pdf
+$ENDCMP
+#
+$CMP MCP65R46
+D 3 μA Comparator with Integrated Reference Voltage, SOT-23-6
+K cmp reference open collector drain
+F http://ww1.microchip.com/downloads/en/DeviceDoc/22269B.pdf
+$ENDCMP
+#
+$CMP MIC5205-2.5YM5
+D 150mA low dropout linear regulator, fixed 2.5V output, SOT-23-5
+K 150mA low-noise LDO linear voltage regulator fixed positive
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005785A.pdf
+$ENDCMP
+#
+$CMP MIC5205-2.7YM5
+D 150mA low dropout linear regulator, fixed 2.7V output, SOT-23-5
+K 150mA low-noise LDO linear voltage regulator fixed positive
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005785A.pdf
+$ENDCMP
+#
+$CMP MIC5205-2.85YM5
+D 150mA low dropout linear regulator, fixed 2.85V output, SOT-23-5
+K 150mA low-noise LDO linear voltage regulator fixed positive
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005785A.pdf
+$ENDCMP
+#
+$CMP MIC5205-2.8YM5
+D 150mA low dropout linear regulator, fixed 2.8V output, SOT-23-5
+K 150mA low-noise LDO linear voltage regulator fixed positive
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005785A.pdf
+$ENDCMP
+#
+$CMP MIC5205-2.9YM5
+D 150mA low dropout linear regulator, fixed 2.9V output, SOT-23-5
+K 150mA low-noise LDO linear voltage regulator fixed positive
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005785A.pdf
+$ENDCMP
+#
+$CMP MIC5205-3.0YM5
+D 150mA low dropout linear regulator, fixed 3.0V output, SOT-23-5
+K 150mA low-noise LDO linear voltage regulator fixed positive
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005785A.pdf
+$ENDCMP
+#
+$CMP MIC5205-3.1YM5
+D 150mA low dropout linear regulator, fixed 3.1V output, SOT-23-5
+K 150mA low-noise LDO linear voltage regulator fixed positive
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005785A.pdf
+$ENDCMP
+#
+$CMP MIC5205-3.2YM5
+D 150mA low dropout linear regulator, fixed 3.2V output, SOT-23-5
+K 150mA low-noise LDO linear voltage regulator fixed positive
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005785A.pdf
+$ENDCMP
+#
+$CMP MIC5205-3.3YM5
+D 150mA low dropout linear regulator, fixed 3.3V output, SOT-23-5
+K 150mA low-noise LDO linear voltage regulator fixed positive
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005785A.pdf
+$ENDCMP
+#
+$CMP MIC5205-3.6YM5
+D 150mA low dropout linear regulator, fixed 3.6V output, SOT-23-5
+K 150mA low-noise LDO linear voltage regulator fixed positive
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005785A.pdf
+$ENDCMP
+#
+$CMP MIC5205-3.8YM5
+D 150mA low dropout linear regulator, fixed 3.8V output, SOT-23-5
+K 150mA low-noise LDO linear voltage regulator fixed positive
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005785A.pdf
+$ENDCMP
+#
+$CMP MIC5205-4.0YM5
+D 150mA low dropout linear regulator, fixed 4.0V output, SOT-23-5
+K 150mA low-noise LDO linear voltage regulator fixed positive
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005785A.pdf
+$ENDCMP
+#
+$CMP MIC5205-5.0YM5
+D 150mA low dropout linear regulator, fixed 5.0V output, SOT-23-5
+K 150mA low-noise LDO linear voltage regulator fixed positive
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005785A.pdf
+$ENDCMP
+#
+$CMP MIC5219-2.5YM5
+D 500mA low dropout linear regulator, fixed 2.5V output, SOT-23-5
+K 500mA ultra-low-noise LDO linear voltage regulator fixed positive
+F http://ww1.microchip.com/downloads/en/DeviceDoc/MIC5219-500mA-Peak-Output-LDO-Regulator-DS20006021A.pdf
+$ENDCMP
+#
+$CMP MIC5219-2.6YM5
+D 500mA low dropout linear regulator, fixed 2.6V output, SOT-23-5
+K 500mA ultra-low-noise LDO linear voltage regulator fixed positive
+F http://ww1.microchip.com/downloads/en/DeviceDoc/MIC5219-500mA-Peak-Output-LDO-Regulator-DS20006021A.pdf
+$ENDCMP
+#
+$CMP MIC5219-2.7YM5
+D 500mA low dropout linear regulator, fixed 2.7V output, SOT-23-5
+K 500mA ultra-low-noise LDO linear voltage regulator fixed positive
+F http://ww1.microchip.com/downloads/en/DeviceDoc/MIC5219-500mA-Peak-Output-LDO-Regulator-DS20006021A.pdf
+$ENDCMP
+#
+$CMP MIC5219-2.85YM5
+D 500mA low dropout linear regulator, fixed 2.85V output, SOT-23-5
+K 500mA ultra-low-noise LDO linear voltage regulator fixed positive
+F http://ww1.microchip.com/downloads/en/DeviceDoc/MIC5219-500mA-Peak-Output-LDO-Regulator-DS20006021A.pdf
+$ENDCMP
+#
+$CMP MIC5219-2.8YM5
+D 500mA low dropout linear regulator, fixed 2.8V output, SOT-23-5
+K 500mA ultra-low-noise LDO linear voltage regulator fixed positive
+F http://ww1.microchip.com/downloads/en/DeviceDoc/MIC5219-500mA-Peak-Output-LDO-Regulator-DS20006021A.pdf
+$ENDCMP
+#
+$CMP MIC5219-2.9YM5
+D 500mA low dropout linear regulator, fixed 2.9V output, SOT-23-5
+K 500mA ultra-low-noise LDO linear voltage regulator fixed positive
+F http://ww1.microchip.com/downloads/en/DeviceDoc/MIC5219-500mA-Peak-Output-LDO-Regulator-DS20006021A.pdf
+$ENDCMP
+#
+$CMP MIC5219-3.0YM5
+D 500mA low dropout linear regulator, fixed 3.0V output, SOT-23-5
+K 500mA ultra-low-noise LDO linear voltage regulator fixed positive
+F http://ww1.microchip.com/downloads/en/DeviceDoc/MIC5219-500mA-Peak-Output-LDO-Regulator-DS20006021A.pdf
+$ENDCMP
+#
+$CMP MIC5219-3.1YM5
+D 500mA low dropout linear regulator, fixed 3.1V output, SOT-23-5
+K 500mA ultra-low-noise LDO linear voltage regulator fixed positive
+F http://ww1.microchip.com/downloads/en/DeviceDoc/MIC5219-500mA-Peak-Output-LDO-Regulator-DS20006021A.pdf
+$ENDCMP
+#
+$CMP MIC5219-3.3YM5
+D 500mA low dropout linear regulator, fixed 3.3V output, SOT-23-5
+K 500mA ultra-low-noise LDO linear voltage regulator fixed positive
+F http://ww1.microchip.com/downloads/en/DeviceDoc/MIC5219-500mA-Peak-Output-LDO-Regulator-DS20006021A.pdf
+$ENDCMP
+#
+$CMP MIC5219-3.6YM5
+D 500mA low dropout linear regulator, fixed 3.6V output, SOT-23-5
+K 500mA ultra-low-noise LDO linear voltage regulator fixed positive
+F http://ww1.microchip.com/downloads/en/DeviceDoc/MIC5219-500mA-Peak-Output-LDO-Regulator-DS20006021A.pdf
+$ENDCMP
+#
+$CMP MIC5219-5.0YM5
+D 500mA low dropout linear regulator, fixed 5.0V output, SOT-23-5
+K 500mA ultra-low-noise LDO linear voltage regulator fixed positive
+F http://ww1.microchip.com/downloads/en/DeviceDoc/MIC5219-500mA-Peak-Output-LDO-Regulator-DS20006021A.pdf
+$ENDCMP
+#
+$CMP MIC5225-3.3YM5
+D 150mA low dropout linear regulator, 3.3V fixed positive output, SOT-23-5
+K linear regulator ldo fixed positive
+F https://ww1.microchip.com/downloads/en/DeviceDoc/mic5225.pdf
+$ENDCMP
+#
+$CMP MIC845H
+D Micro-Power Comparator / Battery Monitor, Active-High Push-Pull Output, SC-70-5
+K single cmp
+F http://ww1.microchip.com/downloads/en/DeviceDoc/mic845.pdf
+$ENDCMP
+#
+$CMP MIC845L
+D Micro-Power Comparator / Battery Monitor, Active-Low Push-Pull Output, SC-70-5
+K single cmp
+F http://ww1.microchip.com/downloads/en/DeviceDoc/mic845.pdf
+$ENDCMP
+#
+$CMP MIC845N
+D Micro-Power Comparator / Battery Monitor, Active-High Open-Drain Output, SC-70-5
+K single cmp collector
+F http://ww1.microchip.com/downloads/en/DeviceDoc/mic845.pdf
+$ENDCMP
+#
+$CMP SPX3819M5-L-1-2
+D 500mA Low drop-out regulator, Fixed Output 1.2V, SOT-23-5
+K REGULATOR LDO 1.2V
+F https://www.exar.com/content/document.ashx?id=22106&languageid=1033&type=Datasheet&partnumber=SPX3819&filename=SPX3819.pdf&part=SPX3819
+$ENDCMP
+#
+$CMP SPX3819M5-L-1-5
+D 500mA Low drop-out regulator, Fixed Output 1.5V, SOT-23-5
+K REGULATOR LDO 1.5V
+F https://www.exar.com/content/document.ashx?id=22106&languageid=1033&type=Datasheet&partnumber=SPX3819&filename=SPX3819.pdf&part=SPX3819
+$ENDCMP
+#
+$CMP SPX3819M5-L-1-8
+D 500mA Low drop-out regulator, Fixed Output 1.8V, SOT-23-5
+K REGULATOR LDO 1.8V
+F https://www.exar.com/content/document.ashx?id=22106&languageid=1033&type=Datasheet&partnumber=SPX3819&filename=SPX3819.pdf&part=SPX3819
+$ENDCMP
+#
+$CMP SPX3819M5-L-2-5
+D 500mA Low drop-out regulator, Fixed Output 2.5V, SOT-23-5
+K REGULATOR LDO 2.5V
+F https://www.exar.com/content/document.ashx?id=22106&languageid=1033&type=Datasheet&partnumber=SPX3819&filename=SPX3819.pdf&part=SPX3819
+$ENDCMP
+#
+$CMP SPX3819M5-L-3-0
+D 500mA Low drop-out regulator, Fixed Output 3.0V, SOT-23-5
+K REGULATOR LDO 3.0V
+F https://www.exar.com/content/document.ashx?id=22106&languageid=1033&type=Datasheet&partnumber=SPX3819&filename=SPX3819.pdf&part=SPX3819
+$ENDCMP
+#
+$CMP SPX3819M5-L-3-3
+D 500mA Low drop-out regulator, Fixed Output 3.3V, SOT-23-5
+K REGULATOR LDO 3.3V
+F https://www.exar.com/content/document.ashx?id=22106&languageid=1033&type=Datasheet&partnumber=SPX3819&filename=SPX3819.pdf&part=SPX3819
+$ENDCMP
+#
+$CMP SPX3819M5-L-5-0
+D 500mA Low drop-out regulator, Fixed Output 5.0V, SOT-23-5
+K REGULATOR LDO 5.0V
+F https://www.exar.com/content/document.ashx?id=22106&languageid=1033&type=Datasheet&partnumber=SPX3819&filename=SPX3819.pdf&part=SPX3819
+$ENDCMP
+#
+$CMP TL3116
+D Single Ultra-Fast Low-Power Precision Comparators, SOIC-8/TSSOP-8
+K cmp push-pull complementary
+F http://www.ti.com/lit/ds/symlink/tl3116.pdf
+$ENDCMP
+#
+$CMP TLV7031DBV
+D Single, 1.6V-6.5V, 315nA Quiescent, Push-Pull Output, Comparator, SOT-23-5/SC-70
+K cmp
+F https://www.ti.com/lit/ds/symlink/tlv7031.pdf
+$ENDCMP
+#
+$CMP TLV7041DBV
+D Single, 1.6V-6.5V, 315nA Quiescent, Open-Drain Output, Comparator, SOT-23-5/SC-70
+K cmp collector
+F https://www.ti.com/lit/ds/symlink/tlv7041.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name GiroscopioL3GD20)(type Legacy)(uri ${KIPRJMOD}/GiroscopioL3GD20.lib)(options "")(descr ""))
+  (lib (name MIC5225)(type Legacy)(uri ${KIPRJMOD}/MIC5225.lib)(options "")(descr ""))
+  (lib (name L3GD20)(type Legacy)(uri ${KIPRJMOD}/L3GD20.lib)(options "")(descr ""))
+)

@@ -2,7 +2,7 @@
 Este repositorio contiene el trabajo práctico final para la asignatura de Diseño de Circuitos Impresos de la carrera de posgrado de FIUBA.
 
 * Autor: Gustavo Zocco
-* Título corto del trabajo: Réplica giroscopio L3GD20.
+* Título corto del trabajo: Réplica Giroscopio L3GD20.
 * Descripción:  Réplica del módulo giroscopio de 3 ejes con el CI L3GD20.
 
 
