@@ -1460,4 +1460,15 @@ Wire Wire Line
 	9200 1750 10000 1750
 Wire Wire Line
 	7600 5200 9200 5200
+$Comp
+L Mechanical:Fiducial FID3
+U 1 1 611A7A0A
+P 2250 7500
+F 0 "FID3" H 2335 7546 50  0000 L CNN
+F 1 "Fiducial" H 2335 7455 50  0000 L CNN
+F 2 "Fiducial:Fiducial_1mm_Mask2mm" H 2250 7500 50  0001 C CNN
+F 3 "~" H 2250 7500 50  0001 C CNN
+	1    2250 7500
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
